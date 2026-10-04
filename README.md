@@ -12,7 +12,8 @@ You'll find the same assets, with previews, at **[arithi.in/brand-assets](https:
 
 - **Mark:** the "orbit crossbar" A, a letter A with an orbit ring around it.
 - **Wordmark:** ARiTHi, with rounded letters.
-- **Lockup:** the mark and the wordmark together. Use the lockup by default.
+- **Lockup:** the mark beside the wordmark. Use the lockup by default: headers, documents, banners.
+- **Stacked:** the wordmark below the mark. Use it in square or narrow spaces: profile pictures, posters, merch, signage.
 - **Mark or app icon:** use these on their own where space is tight (avatars, favicons, app icons).
 
 ## Colours
@@ -40,10 +41,14 @@ Each colourway folder has:
 - **`svg/`:**
   - `arithi-lockup.svg`
   - `arithi-lockup-on-bg.svg`
+  - `arithi-stacked.svg`
+  - `arithi-stacked-on-bg.svg`
+  - `arithi-stacked-square.svg`
   - `arithi-mark.svg`
   - `arithi-icon.svg`
 - **`png/`:**
   - The lockup at 600, 1200 and 2400px wide, transparent or on its background.
+  - The stacked logo at 500, 1000 and 2000px wide, transparent or on its background, plus a 1080px square.
   - The mark at 1024px.
   - App icons at 32, 180, 512 and 1024px.
 
@@ -55,8 +60,8 @@ Each colourway folder has:
   - Android, PWA and maskable icons, plus `site.webmanifest`.
   - The Open Graph image.
   - Header and footer logos, plus `head-snippet.html`.
-- **`social/`:** profile pictures (circle-safe), plus headers and posts for LinkedIn, X, YouTube, Facebook and Instagram.
-- **`print-and-office/`:** email signature, letterhead logo, single-colour print files, stamp and merch mark, and a presentation title slide.
+- **`social/`:** profile pictures (icon and stacked, circle-safe), plus headers and posts for LinkedIn, X, YouTube, Facebook and Instagram.
+- **`print-and-office/`:** email signature, letterhead logo, single-colour print files (lockup and stacked), stamp and merch mark, stacked logo on plum for dark merch, and a presentation title slide.
 
 ## Usage rules
 
