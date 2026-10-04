@@ -2,7 +2,7 @@
 
 Official logos, icons and brand files for **Arithi**, India's STEM learning and competitions platform.
 
-You'll find the same assets, with previews, at **[arithi.in/brand](https://arithi.in/brand)**.
+You'll find the same assets, with previews, at **[arithi.in/brand-assets](https://arithi.in/brand-assets)**.
 
 ![Arithi logo](logos/primary-plum-sage-on-cream/png/arithi-lockup-on-bg-1200w.png)
 
