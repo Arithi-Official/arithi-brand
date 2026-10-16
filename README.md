@@ -74,9 +74,9 @@ Each colourway folder has:
 
 ## Copyright and trademarks
 
-© 2026 Arithi Innovation & Technologies Private Limited. All rights reserved.
+© 2026 Arithi Innovation & Technologies. All rights reserved.
 
-"Arithi", the Arithi logo, the orbit-A mark and the ARiTHi wordmark are trademarks of Arithi Innovation & Technologies Private Limited.
+"Arithi", the Arithi logo, the orbit-A mark and the ARiTHi wordmark are trademarks of Arithi Innovation & Technologies.
 
 These files are **not** open source. [LICENSE](LICENSE) sets out what you may and may not do with them. In short: you may use them unchanged to refer to Arithi, for example in press, partner and school materials. You may not use them as your own brand.
 
