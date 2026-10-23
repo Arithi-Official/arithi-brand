@@ -34,7 +34,9 @@ You'll find the same assets, with previews, at **[arithi.in/brand-assets](https:
 | `logos/plum-cream-on-sage` | Plum and cream on sage | On sage backgrounds |
 | `logos/plum-sage-on-blush` | Plum and sage on blush | On blush backgrounds |
 | `logos/plum-cream-on-peach` | Plum and cream on peach | On peach backgrounds |
-| `logos/single-colour-plum` | Plum only | Print, stamps, merch, embroidery, and any other background |
+| `logos/single-colour-plum` | Plum only | Print, stamps, merch, embroidery, and any other light background |
+| `logos/cream-sage-on-dark` | Cream and sage, truly transparent | **Any dark background:** plum, black, navy, dark photos, dark-mode UIs |
+| `logos/single-colour-cream` | Cream only, truly transparent | Dark single-colour print, merch, embroidery, busy dark photos |
 
 Each colourway folder has:
 
@@ -63,10 +65,12 @@ Each colourway folder has:
 - **`social/`:** profile pictures (icon and stacked, circle-safe), plus headers and posts for LinkedIn, X, YouTube, Facebook and Instagram.
 - **`print-and-office/`:** email signature, letterhead logo, single-colour print files (lockup and stacked), stamp and merch mark, stacked logo on plum for dark merch, and a presentation title slide.
 
+Regenerate the dark colourways with `python3 tools/build_dark_logos.py` (needs `pip install resvg-py`).
+
 ## Usage rules
 
 - **Use SVG where you can.** Use PNG only where SVG isn't accepted.
-- **Match the colourway to its background.** The right leg of the A is filled with the background colour, so each colourway only works on its own background. On any other background, use **single-colour plum**.
+- **Match the colourway to its background.** The right leg of the A is filled with the background colour, so each colourway only works on its own background. On any other light background, use **single-colour plum**. On any dark background, use **cream-sage-on-dark** (or **single-colour-cream**): in these two, the hollow leg is a real cut-out, so the background shows through and they work on any dark colour or photo.
 - **Clear space:** leave at least the height of the A's dot free on every side.
 - **Minimum size:** 120px wide for the lockup, 16px for the icon.
 - **Don't change the logo.** Don't recolour, stretch, rotate, or crop it. Don't add shadows, outlines, gradients or effects. Don't retype the wordmark in a font.
